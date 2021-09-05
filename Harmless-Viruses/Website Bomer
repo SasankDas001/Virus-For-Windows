@@ -1,0 +1,17 @@
+@echo off
+:a
+
+start www.china.com
+start www.zhihu.com
+start www.sina.com.cn
+start www.163.com
+start www.sohu.com
+start www.thepaper.com
+start www.taobao.com
+start www.jd.com
+start www.bilibili.com
+start www.mgtv.com
+start www.iqiyi.com
+start www.youku.com
+
+goto :a
