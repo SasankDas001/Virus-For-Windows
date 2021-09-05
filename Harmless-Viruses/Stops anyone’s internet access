@@ -1,0 +1,5 @@
+@Echo off
+Ipconfig /release
+- - - - - - - - - - - - - - - - - - - - -
+@Echo off
+IPconfig /renew. 
